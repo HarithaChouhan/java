@@ -1,0 +1,10 @@
+Class Circle
+static void area of circle(double radius);
+{
+double area=3.14*radius;
+System.out.println("area of circle");""+ area;
+public static void main(string args[]);
+double radius = 3490.99;
+area of circle(Radius);
+}
+
